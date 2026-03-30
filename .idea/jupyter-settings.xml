@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="2f3ce3651046a144752b3c5d10074448829036e08a432e05" />
+          <option name="urlString" value="http://localhost:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="2f3ce3651046a144752b3c5d10074448829036e08a432e05" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="09cb6001c243e2a5c26f60b470aa4f1f8a70d9141be54a4d" />
+          <option name="urlString" value="http://localhost:8889/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="09cb6001c243e2a5c26f60b470aa4f1f8a70d9141be54a4d" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../download/19 2022-Deeplearning.ai机器学习/.idea/19 2022-Deeplearning.ai机器学习.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="09cb6001c243e2a5c26f60b470aa4f1f8a70d9141be54a4d" />
+              <option name="urlString" value="http://localhost:8889/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="09cb6001c243e2a5c26f60b470aa4f1f8a70d9141be54a4d" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../download/推荐系统课程设计/.idea/推荐系统课程设计.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="63992" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../mycodes/pycharm/pytorch_and_Gnn/.idea/pytorch_and_Gnn.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../mycodes/pycharm/深度学习与交通大数据实战数据集与源代码/.idea/深度学习与交通大数据实战数据集与源代码.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="2f3ce3651046a144752b3c5d10074448829036e08a432e05" />
+              <option name="urlString" value="http://localhost:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="2f3ce3651046a144752b3c5d10074448829036e08a432e05" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../交通流/test1/.idea/test1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
